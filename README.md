@@ -1,9 +1,11 @@
-### Hi there 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/322d6c9ee074f30f117b355ccc3841e5/tumblr_osea7mpdGv1uweq0do1_540.gifv">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+# Good morning, I hope, 
+My name is Vinicius de Jesus, Brazilian, undergraduated Software Enginner
+## I'm currently working on
+## I'm currently learning
+- As a web dev:
+- 
+# Contract
+<span style="font-family: cursive">cardinals</span>.
 
 <!--
 **UnderwaterVillager/UnderwaterVillager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
