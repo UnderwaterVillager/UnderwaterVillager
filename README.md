@@ -5,7 +5,7 @@ My name is Vinicius de Jesus, Brazilian, undergraduated Software Enginner
 - As a web dev:
 - 
 # Contract
-<span style="font-family: Snell Roundhand, cursive">hey</span>.
+<span style="font-family: Trattatello, fantasy">hey</span>.
 
 <!--
 **UnderwaterVillager/UnderwaterVillager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
