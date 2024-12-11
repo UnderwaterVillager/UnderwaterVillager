@@ -1,12 +1,18 @@
 # Good morning, I hope, 
-My name is Vinicius de Jesus, Brazilian, undergraduated Software Enginner
-## I'm currently working on
+My name is Vinicius de Jesus, Brazilian, undergraduated Software Engineer
 
-## I'm currently learning
--  React;
--  Javascript;
--  Python;
--  And, ocasionally, C!
+
+## Main goals
+- Apply what I have been learning about Object Oriented Programming with Python;
+- Get an overview about Web Development;
+- Learn Java;
+- Build a portfolio;
+
+## My stack
+- JavaScript;
+- Python;
+- C;
+
 <!--
 **UnderwaterVillager/UnderwaterVillager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
