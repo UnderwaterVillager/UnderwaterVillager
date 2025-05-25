@@ -1,17 +1,25 @@
+# Bom dia, meu nome é Vinícius
+Sou Desenvolvedor de Software graduando
+<!--
+
+
+## Tecnologia e Ferramentas
+- Python para desenvolvimento de API de forma rápida e flexivel com FastAPI, ou robusta e com interface com Django;
+- Typescript para um desenvolvimento colaborativo e assertivo, abrangendo de backend com NodeJS a frontend com ReactJS;
+- Docker para criação e uso de containers para um ou mais serviços;
+
+
+## Atualmente Aprendendo
+- Kotlin para desenvolvimento de apps multiplataforma;
+- Documentação com Swagger;
+
+## Objetivos
+- 
+
 # Good morning, I hope, 
 My name is Vinicius de Jesus, Brazilian, undergraduated Software Engineer
 
 
-## Main goals
-- Apply what I have been learning about Object Oriented Programming with Python;
-- Get an overview about Web Development;
-- Learn Java;
-- Build a portfolio;
-
-## My stack
-- JavaScript;
-- Python;
-- C;
 
 <!--
 **UnderwaterVillager/UnderwaterVillager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
