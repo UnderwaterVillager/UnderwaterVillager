@@ -1,12 +1,26 @@
-# Bom dia, meu nome é Vinícius
-Sou Desenvolvedor de Software graduando
+# Bom dia, meu nome é Vinícius 
+Sou Desenvolvedor de Software graduando com foco em backend, empolgado com a oportunidade de aprender algo novo e de fazer ainda mais.
 <!--
-
-
+-->
 ## Tecnologia e Ferramentas
-- Python para desenvolvimento de API de forma rápida e flexivel com FastAPI, ou robusta e com interface com Django;
-- Typescript para um desenvolvimento colaborativo e assertivo, abrangendo de backend com NodeJS a frontend com ReactJS;
-- Docker para criação e uso de containers para um ou mais serviços;
+
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+
+### FrontEnd
+![ReactJS](https://img.shields.io/badge/react-0088CC?style=for-the-badge&logo=react&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+### Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1A9877?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Ambiente de desenvolvimento
+![Docker](https://img.shields.io/badge/docker-1976DE?style=for-the-badge&logo=docker&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-316B24?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 
 ## Atualmente Aprendendo
@@ -14,10 +28,9 @@ Sou Desenvolvedor de Software graduando
 - Documentação com Swagger;
 
 ## Objetivos
-- 
-
-# Good morning, I hope, 
-My name is Vinicius de Jesus, Brazilian, undergraduated Software Engineer
+- Colaborar com projetos open-source;
+- Ter experiência com documentação e boas práticas;
+- Desenvolver mais projetos;
 
 
 
